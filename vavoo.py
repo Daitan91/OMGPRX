@@ -3,12 +3,12 @@ import json
 import re
 import os
 
-LINKMFP = "https://elwood65-vadase.hf.space"
-PASSWORD = "shadow65"
+LINKMFP = "https://daitan91-universe.hf.space"
+PASSWORD = "000"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
-USR = "elwood65"
+USR = "Daitan91"
 REPO = "OMGPRX"
 
 OUTPUT_FILE = "channels_italy.m3u8"
